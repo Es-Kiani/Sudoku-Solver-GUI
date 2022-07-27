@@ -44,29 +44,29 @@ Run the ```main.py``` to use the app.
 
 
 
-####     :camera:   GUI
+####     :camera:   GUI:
 <h3 align="center"> 
     <img src="https://github.com/Es-Kiani/Sudoku-Solver-GUI/blob/main/ScSht/1.PNG">
 </h3>
 
 To insert your puzzle numbers, just you need to click in the cells to see a red line around the cell. After seeing red line, you must enter a number between 1-9. 
 
-Entered a worng number? Don't worry... Just select the cell that you want to change its value and press 0 to clear it.
+:recycle:    Entered a worng number? Don't worry... Just select the cell that you want to change its value and press 0 to clear it.
 
 
 
-####     :camera:   Input
+####     :camera:   Input:
 <h3 align="center"> 
     <img src="https://github.com/Es-Kiani/Sudoku-Solver-GUI/blob/main/ScSht/2.PNG">
 </h3>
 
 After that you input all numbers, you can press __Solve__ to see if your puzzle is solvable or not! If puzzle can be solve, the app start solving and notify to you by a popup information window. (Please close the popup windows when you done reading to see the result..!)
 
-:warning: If you press the _Clear_ button, all cells value set to _empty_! Use it just when you want to reset the puzzle and enter a new one.
+:warning:    If you press the __Clear__ button, all cells value set to _empty_! Use it just when you want to reset the puzzle and enter a new one.
 
 
 
-####     :camera:   Result
+####     :camera:   Result:
 <h3 align="center"> 
     <img src="https://github.com/Es-Kiani/Sudoku-Solver-GUI/blob/main/ScSht/3.PNG">
 </h3>
@@ -75,7 +75,7 @@ After you press the _Solve_ button and close popup windows, if your puzzle have 
 
 
 
-###   :open_file_folder:    Export Result
+###   :open_file_folder:    Export Result:
 <h3 align="center"> 
     <img src="https://github.com/Es-Kiani/Sudoku-Solver-GUI/blob/main/ScSht/4.PNG">
 </h3>
